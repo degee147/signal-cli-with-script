@@ -5,4 +5,5 @@ Pre-Steps
  - Install Signal CLI system wide and add to environment path (https://github.com/AsamK/signal-cli/wiki/Quickstart)
 
 Include Class Signal.php where it needs to be used
+
 See example usages in file.php
