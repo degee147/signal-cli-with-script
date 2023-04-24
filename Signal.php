@@ -12,8 +12,6 @@ class Signal
         $this->phone = $phone;
     }
 
-
-
     public function version()
     {
         return $this->exec("signal-cli version");
